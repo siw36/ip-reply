@@ -22,3 +22,6 @@ TODO:
 add ability to check what client is accessing the index site:
 - when curl or wget -> post just the ip
 - when browser -> show a whole website (also build a "whole" website)
+- build dockerfiles for nginx+php
+- build ocp+k8s deplyoment config
+- build docker compose file
